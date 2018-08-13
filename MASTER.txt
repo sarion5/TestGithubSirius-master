@@ -20,3 +20,5 @@ Greg - PUSH -> branche MASTER - modif ligne dans MASTER.txt - le  13/08/18 à 22
 
 Modification du fichier par Raphael le 13/08/18 à 22h20.
 
+Raph - COMMIT/PUSH -> branche MASTER - nouveau collaboteur dans MASTER.txt - 13/08/18 à 22h20.
+
