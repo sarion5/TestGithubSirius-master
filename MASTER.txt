@@ -1,6 +1,6 @@
 Fichier MASTER.txt
 ############################
-
+****************************
 Création du fichier MASTER par Greg le 23/07/18 à 9h50.
 
 
@@ -15,3 +15,8 @@ Greg - PUSH -> branche MASTER - ajout ligne dans MASTER.txt - le  13/08/18 à 22
 Greg - COMMIT -> branche MASTER - modif ligne dans MASTER.txt - le  13/08/18 à 22h05
 
 Greg - PUSH -> branche MASTER - modif ligne dans MASTER.txt - le  13/08/18 à 22h06
+
+****************************
+
+Modification du fichier par Raphael le 13/08/18 à 22h20.
+
