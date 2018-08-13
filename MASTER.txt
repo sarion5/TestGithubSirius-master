@@ -1,0 +1,17 @@
+Fichier MASTER.txt
+############################
+
+Création du fichier MASTER par Greg le 23/07/18 à 9h50.
+
+
+PUSH sur la branche MASTER par Greg le 23/07/18 à 11h00
+
+Pull de ma branche "laurent" vers la branche "master" le 27/07/18 a 13h08
+
+Greg - COMMIT -> branche MASTER - ajout ligne dans MASTER.txt - le  13/08/18 à 22h01
+
+Greg - PUSH -> branche MASTER - ajout ligne dans MASTER.txt - le  13/08/18 à 22h02
+
+Greg - COMMIT -> branche MASTER - modif ligne dans MASTER.txt - le  13/08/18 à 22h05
+
+Greg - PUSH -> branche MASTER - modif ligne dans MASTER.txt - le  13/08/18 à 22h06
